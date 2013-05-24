@@ -1,4 +1,4 @@
 lpthw
 =====
 
-My LPTHW code.
+My LPTHW code repository.
